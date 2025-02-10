@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 nbuttr nbuttr 4,0K фев  9 16:04 ./
+drwxr-xr-x 4 nbuttr nbuttr 4,0K фев  9 15:59 ../
+-rw-rw-r-- 1 nbuttr nbuttr  588 фев  9 16:03 config.txt
+-rw-rw-r-- 1 nbuttr nbuttr  164 фев  9 16:00 first.txt
+drwxrwxr-x 8 nbuttr nbuttr 4,0K фев  9 16:04 .git/
+-rw-rw-r-- 1 nbuttr nbuttr    0 фев  9 16:04 ls.txt
+-rw-rw-r-- 1 nbuttr nbuttr   15 фев  9 15:59 README.md
+-rw-rw-r-- 1 nbuttr nbuttr  199 фев  9 16:00 status.txt
